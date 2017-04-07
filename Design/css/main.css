@@ -1,0 +1,139 @@
+ul li {
+	list-style: none;
+	display: inline-block;
+	padding-left: 25px;
+
+}
+
+nav {
+
+    padding-right: 18%;
+    list-style: none;
+    float:right;
+ }
+a{
+	color: black;
+}
+ header img{
+	padding-left: 15%;
+}
+header{
+	padding-bottom: 40px;
+}
+
+button{ 
+	background-color:black; 
+	border: none;
+	color: white;
+	padding: 10px 25px;
+	border-radius: 10%;
+
+}
+.wrapper{
+	
+	margin: center;
+	padding: 0 15%;
+	max-width: 1000px;
+	
+
+	
+}
+#section1 {
+	text-align: center;
+	padding-bottom: 30px;
+}
+#section2 {
+	text-align: left;
+	padding-bottom: 20px;
+}
+#section2 img {
+	max-width: 100%;
+}
+
+#gallery{
+	text-align: center;
+	margin:0;
+	padding: 0;
+	list-style: none;
+}
+#gallery li {
+	float: left;
+	width: 28%;
+	margin-right: 2.5%;
+	
+}
+#right{
+	float: left;
+	width: 39.25%;
+	height: 38%;
+	background-color: lightgray;
+	padding-left: 200px;
+	padding-bottom: 120px;
+
+
+}
+#left{
+	margin-top: auto;
+	float: right;
+	width: 45.50%;	
+	height: 40%;
+	background-color: lightgray;
+	padding-bottom: 70px;
+
+	
+
+}
+
+content img{
+	max-width: 100%;
+
+}
+
+
+
+#image1 img{
+	
+	float: left;
+}
+
+#image1 {
+	padding-right: 30%;
+}
+#image2{
+	padding-right: 30%;
+
+}
+#image2 img{
+		float: left;
+		
+
+}
+.footer{
+	
+	margin-top: 50px;
+
+
+	
+}
+.footer span{
+	color: red;
+}
+
+#fnav ul{
+	list-style: none;
+	float: right;
+	padding-right: 16%;
+	padding-bottom: 50px;
+	
+
+
+}
+.footer p{
+	padding-left: 200px;
+	float: left;
+
+}
+.section3{
+	display: inline-block;
+	background: #ccc;
+}
