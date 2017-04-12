@@ -1,517 +1,411 @@
 /* Header */
-img{
-	max-width: 100%;
+
+img {
+    max-width: 100%;
 }
-body{
-	margin:0px;
+body {
+    margin: 0px;
 }
 #cart {
-
-	padding: 10px 17%;
-	background-color: #fccc0d;
+    padding: 10px 17%;
+    background-color: #fccc0d;
 }
-#cart img{
-	float: right;
-	padding-right: 2%;
-
-
+#cart img {
+    float: right;
+    padding-right: 2%;
 }
 #right1 {
-	float: right;
-	display: inline-block;
-	
-	}
-span{
-	color: white;
-}
-
-}
-#logo{
-	
-	max-width: 100%;
-	max-height:30%; 
-}
-#logo img{
-	padding-top: 1%;
-	padding-left: 13%;
-	max-width: 350px;
-	max-height: 140px;
-	display: inline-block;
-}
-
-nav{
-	
-	float: right;
-	height: 110px;
-}
-nav li {
-
-	
-	display: inline;
-	list-style: none;
-	padding-top: 50px;
-	font-weight: bold;
-}
-nav ul{
-	padding-top: 22px;
-
-}
-nav li a{
-	color: #58585a;
-	text-decoration: none;
-	padding-right: 80px;
-	padding-top: 50px;
-
-}
-
-/******* Section one ********/
-
-
-#left{
-		background-color: gray;
-		display: inline-block;
-		width: 35%;
-		height: 500px;
-		padding-left: 25px;
-		padding-right: 40px;
-	
-}
-
-#left:hover {
-
-	background-color: #f79522;
-
-
-	
-}
-
-#left p{
-	font-family: 'Work Sans', sans-serif;
-	line-height: 35px;
-	color: white;
-	text-align: justify;
-}
-#left h1{
-	color: white;
-	font-family: 'Work Sans', sans-serif;
-}
-
-#right{
-	
-	width: 60%;
-	float: right;
-}
-#right img{
-	float: right;
-	width: 100%;
-	height: 500px;
-	
-
-}
-
-.section1{
-	padding-top: 65px;
-}
-
-/* Section two */
-.section2{
-	
-	width: 90%;
-	margin-right: auto;
-    margin-left: auto;
-}
-
-.newshirts{
-	display: block;
-	margin-top: 100px;
-	margin-bottom: 50px;
-
-	
-}
-.newshirts	h1 {
-	display: block;
-	text-align: center;
-	color: #f79522;
-	font-family: 'Work Sans', sans-serif;
-	font-size: 50px;
-	margin-bottom: 0px;
-}
-#goshop{
-
-	float: right;
-	text-decoration: none;
-	margin-bottom: 0px;
-	font-size: 12px;
-	color: #ED2F70;
-	font-style: italic;
-	margin-top: 30px;
-
-}
-#slider{
-	height: 350px;
-}
- #slider img {
-    opacity: 0.5;
-    filter: alpha(opacity=50); 
-}
-
-#slider img:hover {
-    opacity: 1.0;
-    filter: alpha(opacity=100); 
-}
-
-#slider li{
-	list-style: none;
-	display: inline;
-	display: block;
-	
-}
-#slider img{
-	width: 23%;
-	float: left;
-	margin-right: 1%;
-}
-
-/******Section 3******/
-.section3{
-	
-	
-	background-color:  #f6f6f6;
-	text-align: center;
-	height: 350px;
-	padding-top: 50px;
-	
-}
-.section3 h1 {
-	font-size: 40px;
-	color: #41c8f4;
-	line-height: 20px;
-	font-family: 'Work Sans', sans-serif;
-}
-.section3 p{
-	color: #58585a;
-	line-height: 30px;
-	font-family: 'Work Sans', sans-serif;
-}
-
-.section3 a{
-	color: #41c8f4;
-	text-decoration: none;
-	font-style: italic;
-	font-size: 20px;
-}
-/**** section 4 *****/
-.section4{
-	
-	height: 600px;
-	max-width: 100%;
-}
-#part1{
-	
-	height: 598px;
-	width: 60%;
-	display: inline-block;
-
-}
-#ipod{
-	
-	width: 49%;
-	height: 292px;
-	float: left;
-	margin: 3px 3px 3px 3px;
-}
-#ipod:hover {
-	background: #b0d136;
-
-}
-#ipod a{
-	color: #c1db6f;
-	text-decoration: none;
-	font-size: 20px;
-	font-style: italic;
-	padding-left: 20px;
-}
-#bigimage{
-
-	
-	width: 40%;
-	height: 600px;
     float: right;
     display: inline-block;
-	
+}
+span {
+    color: white;
+}
+}
+#logo {
+    max-width: 100%;
+    max-height: 30%;
+}
+#logo img {
+    padding-top: 1%;
+    padding-left: 13%;
+    max-width: 350px;
+    max-height: 140px;
+    display: inline-block;
+}
+nav {
+    float: right;
+    height: 110px;
+}
+nav li {
+    display: inline;
+    list-style: none;
+    padding-top: 50px;
+    font-weight: bold;
+}
+nav ul {
+    padding-top: 22px;
+}
+nav li a {
+    color: #58585a;
+    text-decoration: none;
+    padding-right: 80px;
+    padding-top: 50px;
+}
+/******* Section one ********/
+
+#left {
+    background-color: gray;
+    display: inline-block;
+    width: 35%;
+    height: 500px;
+    padding-left: 25px;
+    padding-right: 40px;
+}
+#left:hover {
+    background-color: #f79522;
+}
+#left p {
+    font-family: 'Work Sans', sans-serif;
+    line-height: 35px;
+    color: white;
+    text-align: justify;
+}
+#left h1 {
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+#right {
+    width: 60%;
+    float: right;
+}
+#right img {
+    float: right;
+    width: 100%;
+    height: 500px;
+}
+.section1 {
+    padding-top: 65px;
+}
+/* Section two */
+
+.section2 {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.newshirts {
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.newshirts h1 {
+    display: block;
+    text-align: center;
+    color: #f79522;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+#goshop {
+    float: right;
+    text-decoration: none;
+    margin-bottom: 0px;
+    font-size: 12px;
+    color: #ED2F70;
+    font-style: italic;
+    margin-top: 30px;
+}
+#slider {
+    height: 350px;
+}
+#slider img {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+#slider img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+#slider li {
+    list-style: none;
+    display: inline;
+    display: block;
+}
+#slider img {
+    width: 23%;
+    float: left;
+    margin-right: 1%;
+}
+/******Section 3******/
+
+.section3 {
+    background-color: #f6f6f6;
+    text-align: center;
+    height: 350px;
+    padding-top: 50px;
+}
+.section3 h1 {
+    font-size: 40px;
+    color: #41c8f4;
+    line-height: 20px;
+    font-family: 'Work Sans', sans-serif;
+}
+.section3 p {
+    color: #58585a;
+    line-height: 30px;
+    font-family: 'Work Sans', sans-serif;
+}
+.section3 a {
+    color: #41c8f4;
+    text-decoration: none;
+    font-style: italic;
+    font-size: 20px;
+}
+/**** section 4 *****/
+
+.section4 {
+    height: 600px;
+    max-width: 100%;
+}
+#part1 {
+    height: 598px;
+    width: 60%;
+    display: inline-block;
+}
+#ipod {
+    width: 49%;
+    height: 292px;
+    float: left;
+    margin: 3px 3px 3px 3px;
+}
+#ipod:hover {
+    background: #b0d136;
+}
+#ipod a {
+    color: #c1db6f;
+    text-decoration: none;
+    font-size: 20px;
+    font-style: italic;
+    padding-left: 20px;
+}
+#bigimage {
+    width: 40%;
+    height: 600px;
+    float: right;
+    display: inline-block;
 }
 #may {
-
-	font-family: 'Work Sans', sans-serif;
-	padding-left: 20px;
-	padding-right: 10px;
-
+    font-family: 'Work Sans', sans-serif;
+    padding-left: 20px;
+    padding-right: 10px;
 }
-#heading{
-	font-family: 'Work Sans', sans-serif;
-	padding-left: 20px;
-	padding-right: 10px;
+#heading {
+    font-family: 'Work Sans', sans-serif;
+    padding-left: 20px;
+    padding-right: 10px;
 }
-/**** Section 5 ***/  
-
+/**** Section 5 ***/
 
 .section5 {
-
-	width: 100%;
-	height: 300px;
-
-
+    width: 100%;
+    height: 300px;
 }
-#shop{
-
-	display: inline-block;
-	width: 50%;
-	height:300px;
-	background: gray;
-	
+#shop {
+    display: inline-block;
+    width: 50%;
+    height: 300px;
+    background: gray;
 }
-#shop:hover{
-	background: #11b6bf;
-	color:	white;
+#shop:hover {
+    background: #11b6bf;
+    color: white;
 }
-
-.section5 #shop{ 
-	text-align: center;
-
+.section5 #shop {
+    text-align: center;
 }
-.section5 #shop h1{ 
-	padding-top: 80px;
-	font-size: 40px;
-	font-weight: 900px;
-	color: white;
-	font-family: 'Open Sans', sans-serif;
-
+.section5 #shop h1 {
+    padding-top: 80px;
+    font-size: 40px;
+    font-weight: 900px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
 }
-#shop a{
-	color: white;
-	text-decoration: none;
+#shop a {
+    color: white;
+    text-decoration: none;
 }
-
-#contact{
-	float: right;
-	width: 50%;
-	height: 300px;
-	font-family: 'Work Sans', sans-serif;
-	background: #1cb37d;
-
-	
+#contact {
+    float: right;
+    width: 50%;
+    height: 300px;
+    font-family: 'Work Sans', sans-serif;
+    background: #1cb37d;
 }
-#contact:hover{
-	background: #11b6bf;
-	color:	white;
+#contact:hover {
+    background: #11b6bf;
+    color: white;
 }
-.section5 #contact{
-
-	text-align: center;
+.section5 #contact {
+    text-align: center;
 }
-#contact a{
-	color: white;
-	text-decoration: none;
-
+#contact a {
+    color: white;
+    text-decoration: none;
 }
-.section5 #contact h1{
-
-	padding-top: 80px;
-	font-size: 40px;
-	font-weight: 900px;
-	color: white;
-	
-
+.section5 #contact h1 {
+    padding-top: 80px;
+    font-size: 40px;
+    font-weight: 900px;
+    color: white;
 }
- /*** FOOTER UPPER ***/
- .upper{
- 
- 	width: 100%;
- 	height: 260px;
- 	background-color: #f79522;
- }
- #side1{
- 	
- 	padding-top: 5px;
- 	width: 50%;
- 	height: 250px;
- 	display: inline-block;
- 	margin-left: 30px;
+/*** FOOTER UPPER ***/
 
- 	
- }
-
-
-
- #contacts {
- 	
- 	width: 50%;
- 	height: 250px;
- 	float: left;
- 	color: white;
- 	font-family: 'Work Sans', sans-serif;
+.upper {
+    width: 100%;
+    height: 260px;
+    background-color: #f79522;
 }
-.upper #link{
-	text-decoration: none;
-	list-style: none;
+#side1 {
+    padding-top: 5px;
+    width: 50%;
+    height: 250px;
+    display: inline-block;
+    margin-left: 30px;
 }
-
-  #quicklink {
-
-
- 	width: 49.40%;
- 	height: 250px;
- 	float: left;
- 	color: white;
- 	font-family: 'Work Sans', sans-serif;
- } 
- #quicklink li{
- 	text-decoration: none;
- 	list-style: none;
- 	line-height: 30px;
- }
-
- 
- 
-
-
- #side2{
- 	
-
- 	width: 47%;
- 	height: 250px;
- 	float: right;
- 	text-align: center;
-
-
- }
- #side2 img{
- 	padding-top: 60px;
- 	padding-right: 90px;
- }
- /*** FOOTER LOWER **/
- .lower{
- 	
- 	width: 100%;
- 	height: 70px;
- 	background-color: #fccc0d;
- }
- .lower ul{
- 	
- 	font-family: 'Work Sans', sans-serif;
- 	color: white;
- 	display: inline-block;
- }
- .lower li{
- 	display: inline;
- 	list-style: none;
- 	text-decoration: none;
- 	padding-right: 80px;
- }
- 
-
- /*** About Page start from here****/
- .aboutme{
-
- 	max-width: 100%;
- 	height: 400px;
- 	margin-top: 110px;
- }
- #abouttext{
- 	
- 	width: 40%;
- 	height: 400px;
- 	display: inline-block;
- 	position: absolute;
- 	
- 	
+#contacts {
+    width: 50%;
+    height: 250px;
+    float: left;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
 }
-#abouttext img{
-	 position: absolute;
-     left: 0px;
-     top: 0px;
-     z-index: -1;
+.upper #link {
+    text-decoration: none;
+    list-style: none;
 }
-#abouttext p{
-	text-align: center;
-	padding-top: 150px;
-	color: white;
-	font-weight: bold;
-	font-size: 40px;
+#quicklink {
+    width: 49.40%;
+    height: 250px;
+    float: left;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+#quicklink li {
+    text-decoration: none;
+    list-style: none;
+    line-height: 30px;
+}
+#side2 {
+    width: 47%;
+    height: 250px;
+    float: right;
+    text-align: center;
+}
+#side2 img {
+    padding-top: 60px;
+    padding-right: 90px;
+}
+/*** FOOTER LOWER **/
+
+.lower {
+    width: 100%;
+    height: 70px;
+    background-color: #fccc0d;
+}
+.lower ul {
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    display: inline-block;
+}
+.lower li {
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    padding-right: 80px;
+}
+/*** About Page start from here****/
+
+.aboutme {
+    max-width: 100%;
+    height: 400px;
+    margin-top: 110px;
+}
+#abouttext {
+    width: 40%;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+}
+#abouttext img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+#abouttext p {
+    text-align: center;
+    padding-top: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
 }
 #aboutpic {
-
-
-	float: right;
-	width: 59%;
-	height: 400px;
+    float: right;
+    width: 59%;
+    height: 400px;
 }
-
-
-
 /****Section Coma ***/
-.coma{
 
-	border: 1px solid black;
-	width: 100%;
-	height: 700px;
-
-
-} 
-#text{
-	
-	height: 300px;
-	text-align: center;
-	font-family: 'Work Sans', sans-serif;
-
+.coma {
+    border: 1px solid black;
+    width: 100%;
+    height: 700px;
+}
+#text {
+    height: 300px;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
 }
 #text h1 {
-
-	font-size: 50px;
-	color: #41c8f4;
-	font-family: 'Work Sans', sans-serif;
+    font-size: 50px;
+    color: #41c8f4;
+    font-family: 'Work Sans', sans-serif;
 }
 #text p {
-	line-height: 30px;
-	text-align: center;
-
+    line-height: 30px;
+    text-align: center;
 }
-#texts{
-	
-	width: 70%;
-	height: 350px;
-	margin-left: 170px;
-	line-height: 35px;
-	text-align: justify;
-	font-family: 'Work Sans', sans-serif;
+#texts {
+    width: 70%;
+    height: 350px;
+    margin-left: 170px;
+    line-height: 35px;
+    text-align: justify;
+    font-family: 'Work Sans', sans-serif;
 }
-
 /***IMAGE***/
 
-.image{
-	
-	height: 500px;
-	background-image: url("../img/bigimage.png");
-
+.image {
+    height: 500px;
+    background-image: url("../img/bigimage.png");
 }
-#main{
-	
-	width: 30%;
-	float: right;
-	margin-top: 120px;
-	margin-right: 300px;
-	height: 65%;
+#main {
+    width: 30%;
+    float: right;
+    margin-top: 120px;
+    margin-right: 300px;
+    height: 65%;
 }
-#over:first-child:before{
-	display: none;
+#over:first-child:before {
+    display: none;
 }
-
-
-#years,#nulla:after{
-    	float: left;
-    	margin-right: 5%;
-    }
-#over:before{
+#years,
+#nulla:after {
+    float: left;
+    margin-right: 5%;
+}
+#over:before {
     background: #fff;
     content: "";
     display: block;
@@ -520,50 +414,41 @@ nav li a{
     width: 1px;
     position: relative;
     top: -4px
-    }
-   #over:last-child{
-    
+}
+#over:last-child {
     display: block;
     doc
-   
-    }
-#years{
-	color: white;
-	font-size: 25px;
-	font-weight: bold;
-	font-family: 'Work Sans', sans-serif;
 }
-#nulla{
-	color: white;
-	font-family: 'Work Sans', sans-serif;
+#years {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Work Sans', sans-serif;
 }
-
-
-#bigtext{
-	
-	width: 60%;
-	height: 200px;
-	line-height: 30px;
-	margin-left: 250px;
-	margin-top: 50px;
-	font-family: 'Open Sans', sans-serif;
-	margin-bottom: 50px;
-	text-align: justify;
-
-
- }
+#nulla {
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+#bigtext {
+    width: 60%;
+    height: 200px;
+    line-height: 30px;
+    margin-left: 250px;
+    margin-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 50px;
+    text-align: justify;
+}
 /*****Shop*****/
-.tshirts{
-	
-	height: 1100px;
-	width: 82%;
-	margin-top: 50px;
-	margin-left: 120px;
-	
-}
-#subshirts{
-	margin: 0.5%;
-	width: 23%;
-	float: left;
 
+.tshirts {
+    height: 1100px;
+    width: 82%;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+#subshirts {
+    margin: 0.5%;
+    width: 23%;
+    float: left;
 }
