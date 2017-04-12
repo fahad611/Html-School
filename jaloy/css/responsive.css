@@ -1,0 +1,39 @@
+@media screen and (max-width: 440px){
+	#logo img{
+
+		width: 50%;
+		height: auto;
+		
+	}
+	#aboutme{
+		height: auto;
+	}
+	
+	
+}
+@media screen and (min-width: 500px){
+
+
+
+
+	
+
+
+
+	}
+@media screen and (min-width: 720px){
+
+
+
+
+	
+}
+@media screen and (max-width: 1100px){
+	
+	nav li a{
+		padding-right: 40px;
+	}
+
+
+
+}

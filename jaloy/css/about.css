@@ -1,0 +1,43 @@
+/* Header */
+img{
+	max-width: 100%;
+}
+body{
+	margin:0px;
+}
+#cart {
+
+	padding: 5px 17%;
+	background-color: #fccc0d;
+}
+#cart img{
+	float: right;
+	padding-right: 2%;
+
+
+}
+#right1 {
+	float: right;
+	display: inline-block;
+	
+	}
+span{
+	color: white;
+}
+#logo{
+	border: 1px solid black;
+	width: 50%;
+}
+#logo img{
+	padding-top: 1%;
+	padding-left: 13%;
+	max-width: 350px;
+	height: auto;
+}
+#nav li{
+	border: 1px solid black;
+	float: right;
+	display: inline;
+}
+/******* Section one ********/
+
